@@ -6,3 +6,8 @@ http://lighttable.com/
 
 Based on teaching materials used during ClojureBridge tutorials:
 http://www.clojurebridge.org/
+
+# Brainstorming 
+- The basics: arithmetic, arrays / lists, vectors, functions, if/else statements, Booleans, strings, etc.
+- Pick a number, anagrams, animations?
+- Pulling columnar data from a single file / series of files?
