@@ -10,4 +10,5 @@ http://www.clojurebridge.org/
 # Brainstorming 
 - The basics: arithmetic, arrays / lists, vectors, functions, if/else statements, Booleans, strings, etc.
 - Pick a number, anagrams, animations?
-- Pulling columnar data from a single file / series of files?
+- Reading files, pulling columnar data from a single file / series of files?
+- Sorting algorithms (insertion, merge, quick, selection...)
