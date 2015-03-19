@@ -12,3 +12,8 @@ http://www.clojurebridge.org/
 - Pick a number, anagrams, animations?
 - Reading files, pulling columnar data from a single file / series of files?
 - Sorting algorithms (insertion, merge, quick, selection...)
+- Also include how to make a basic Quil app.
+
+# Out of Scope
+- cljs, because David Nolen is amazing
+- integration with (most) API's
