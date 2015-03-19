@@ -1,14 +1,9 @@
 # Clojure 101: Light Table Tutorial
 An interactive Clojure tutorial intended for folks who use Light Table.
 
-Light Table can be found here:
+Light Table can be found [here](http://lighttable.com/).
 
-http://lighttable.com/
-
-
-Based on teaching materials used during ClojureBridge tutorials:
-
-http://www.clojurebridge.org/
+Based on teaching materials used during [ClojureBridge tutorials](http://www.clojurebridge.org/).
 
 
 # Brainstorming 
@@ -19,5 +14,5 @@ http://www.clojurebridge.org/
 - Also include how to make a basic Quil app.
 
 # Out of Scope
-- cljs, because David Nolen is amazing
+- cljs, because [David Nolen is amazing](https://github.com/swannodette/lt-cljs-tutorial).
 - integration with (most) API's
